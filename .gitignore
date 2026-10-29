@@ -1,0 +1,31 @@
+# 抖音登录态 / 浏览器配置（含 cookies，绝对不能提交）
+.douyin_browser_profile/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# 抽奖导出 / 运行时临时文件
+*winners*.csv
+winners.csv
+*.log
+temp_assets/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
